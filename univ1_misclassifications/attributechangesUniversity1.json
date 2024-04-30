@@ -1,0 +1,34 @@
+{
+    "Designation": [
+        "adj_prof",
+        "vis_prof"
+    ],
+    "Department": [
+        "IT",
+        "chem",
+        "pha",
+        "eni"
+    ],
+    "Degree": [
+        "BE",
+        "ME"
+    ],
+    "Year": [],
+    "Type": [
+        "quiz",
+        "proj",
+        "dept_bud"
+    ],
+    "Department.1": [
+        "IT",
+        "chem",
+        "pha",
+        "eni"
+    ],
+    "Degree.1": [
+        "BE",
+        "ME"
+    ],
+    "Year.1": [],
+    "Access": []
+}

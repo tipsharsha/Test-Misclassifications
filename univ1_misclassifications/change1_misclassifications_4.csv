@@ -1,0 +1,4 @@
+Designation,Department,Degree,Year,Type,Department.1,Degree.1,Year.1,Access,Designation_train,Department_train,Degree_train,Year_train,Type_train,Department.1_train,Degree.1_train,Year.1_train,Access_train
+officer,accounts,NotA,NotA,dept_bud,ece,NotA,NotA,Yes,stu,ece,btech,2,attdn,ce,mtech,2,No
+stu,cse,mtech,1,dept_bud,cse,NotA,NotA,No,stu,ece,btech,2,attdn,ce,mtech,2,No
+stu,cse,mtech,2,dept_bud,cse,NotA,NotA,No,stu,ece,btech,2,attdn,ce,mtech,2,No

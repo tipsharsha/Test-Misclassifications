@@ -1,0 +1,2 @@
+clf_name,accuracy,precision,recall,f1score,accuracy,precision,recall,f1score,accuracy,precision,recall,f1score,accuracy,precision,recall,f1score,accuracy,precision,recall,f1score,
+ArtificalNeuralNetwork,0.763,0.675,0.547,0.605,
